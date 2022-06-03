@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" link="https://twitter.com/RinaTheUsagi" alt="Twitter Badge"/>
   <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  :wave:	
   </h1>
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vbl7wl5xqsd0tjutrgixmnb4qhngi4hhuph2fr3x&rid=giphy.gif&ct=g" width="300"/>
 </div>
