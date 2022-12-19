@@ -24,7 +24,7 @@
 
 [Personal Website](https://www.RinaMoto.com)
 
-[Medium Blog](https://medium.com/@rina.easterday)
+[Hashnode](https://rinamoto.hashnode.dev/)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
