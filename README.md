@@ -3,7 +3,7 @@
   <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b7611b28c1585bf0c89a5d179409b3d187996bc8aac7d&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" width="100"/>
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="117"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" link="https://twitter.com/RinaTheUsagi" alt="Twitter Badge"/>
   <h1>
   Hey there
