@@ -1,10 +1,7 @@
 # Hey there :wave:	
 <p align="left">
   <a href="https://www.linkedin.com/in/rina-e-15a0aa202/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rinamoto.hashnode.dev/" target="_blank"><img height="30" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-[Personal Website](https://www.RinaMoto.com)
 
 I'm a full stack developer based in the SF :woman_technologist: In my free time, I enjoy working out, reading, snowboarding, playing PC games and billiards.
 
